@@ -1,0 +1,4 @@
+# copia do celular para o termux
+
+cp -r /data/data/com.termux/files/home/storage/shared/Download/Cursos/DevMedia/Front-End/* ~/projetos/DevMedia_Front-End/
+
