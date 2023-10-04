@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body{
+    text-align: center;
+}
+
+div{
+    margin: 0 auto;
+    width: 600px;
+}
+
+#logo{
+    width: 100px;
+    padding: 20px;
+}
+
+#produtos{
+    color: white;
+}
+
+#produtos h3{
+    padding-top: 20px;
+}
+
+.produtos{
+    width: 500px;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 28px;
+}
+
+h2{
+    color: #ff9e55;
+}
+img{
+    width: 200px;
+}
+
+p{
+    line-height: 30px;
+}
+
+#produtos{
+    background-color: orange;
+}
+
+span{
+    font-weight: bold;
+}
