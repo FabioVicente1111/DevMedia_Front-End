@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+body{
+    text-align: center;
+    margin: auto;
+}
+
+#logo{
+    background-color: lightblue;
+}
+
+#logo img{
+    width: 90px;
+    text-align: center;
+}
+
+#logo p{
+    padding-bottom: 15px;
+}
+
+#banner img{
+    width: 400px;
+    mmargin: auto;
+}
+
+#sobre{
+    
+}
+
+#servicos{
+    
+}
+
+#corretores{
+    
+}
+
+#contato{
+    
+}
+
+#logo, #servicos, #contato{
+    width: 500px;
+}
+
+#sobre img, #corretores img{
+    width: 200px;
+}
+
+#servicos, #contato{
+    color: white;
+    background-color: blue;
+}
+
+.span-destaque{
+    color: yellow;
+    font-weight: bold;
+}
+
+iframe{
+    width: 300px;
+    height: 150px;
+}
