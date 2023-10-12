@@ -1,34 +1,61 @@
 @charset "UTF-8";
 
-body{
+div{
     text-align: center;
     margin: auto;
+    width: 600px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #logo{
     background-color: lightblue;
+    
 }
 
 #logo img{
-    width: 90px;
+    width: 100px;
     text-align: center;
 }
 
 #logo p{
-    padding-bottom: 15px;
+    padding-bottom: 30px;
 }
 
-#banner img{
-    width: 400px;
-    mmargin: auto;
+#logo p a{
+    color: black;
+}
+
+#banner img, #sobre p, #corretores p{
+    width: 500px;
+    margin: auto;
+    text-align: justify;
 }
 
 #sobre{
     
 }
 
+#sobre h1{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+
+#sobre h2{
+    font-size: 15px;
+    color: #0083ff;
+    margin-top: 0;
+}
+
 #servicos{
     
+}
+
+#servicos p, #servicos ul{
+    width: 300px;
+    margin: auto;
 }
 
 #corretores{
@@ -39,8 +66,23 @@ body{
     
 }
 
-#logo, #servicos, #contato{
-    width: 500px;
+#contato p{
+    background-color: black;
+}
+#contato ul li{
+    background-color: white;
+    padding: -20px
+    margin: 0;
+}
+
+p{
+    font-size: 10px;
+}
+
+ul{
+    width: 80px;
+    margin: 0;
+    background-color: orange;
 }
 
 #sobre img, #corretores img{
@@ -50,6 +92,11 @@ body{
 #servicos, #contato{
     color: white;
     background-color: blue;
+}
+
+span{
+    font-weight: bold;
+    text-align: justify;
 }
 
 .span-destaque{
