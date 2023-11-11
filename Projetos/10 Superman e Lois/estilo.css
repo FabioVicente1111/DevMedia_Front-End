@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+* {
+    margin: 0 auto;
+}
+
+#Sinopse h2, #Sinopse p, #Disponibilidade h2, #Disponibilidade p, .Imagens p, Rodape{
+    
+    margin: 50px auto;
+    background-color: lightblue;
+    width: 500px;
+}
+
+
+img2{
+    width: 100px;
+}
+
+.Topo, .Rodape p{
+    background-color: #662aff;
+    width: 100%;
+    height: 20px;
+    padding: 10px 100%;
+    margin: 0;
+    
+}
+
+.Topo div span a{
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+.Topo div img{
+    vh: 100%;
+    background-color: green;
+    margin: auto;
+    display: block;
+    
+    
+}
+
