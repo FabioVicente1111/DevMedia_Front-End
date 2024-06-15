@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+div
+{
+    text-align: center;
+}
+
+#topo img
+{
+    width: 120px;
+    margin: auto;
+    display: block;
+    padding-bottom: 20px;
+    
+}
+
+#topo span
+{
+    padding: 20px;
+    margin-top: 20px;
+    text-decoration: underline;
+    
+}
+
+#banner img
+{
+    width: 500px;
+}
+
+#produtos
+{
+    padding-top: 15px;
+    width: 500px;
+    margin: 0 auto;
+    background-color: #ff7b00;
+}
+
+#produtos p
+{
+    padding: 0 50px;
+}
+
+#produtos img
+{
+    width: 300px;
+}
+
+#contato ul li
+{
+    padding: 5px;
+}
+
+#contato span
+{
+    font-weight: bolder;
+}
+
+ul
+{
+    list-style: none;
+}
