@@ -1,0 +1,101 @@
+@charset 'UTF-8';
+
+
+div{
+    font-family: verdana;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding: 20px 0;
+    
+}
+
+#Menu{
+    background-color: #b0ddfc;
+    padding-bottom: 30px;
+}
+
+#Menu img{
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+
+#Menu span a{
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+#Banner{
+    width: 100%;
+    margin-top: 20px;
+}
+
+#Sobre img, #Corretores img{
+    width: 400px;
+}
+
+h1{
+    font-size: 28px;
+}
+
+h2{
+    font-size: 18px;
+}
+
+#Servicos p{
+    width: 50%;
+    margin: auto;
+    line-height: 28px;
+}
+
+#Servicos ul{
+    display: inline-block;
+    text-align: left;
+}
+
+#Servicos ul li{
+    margin: 10px 0;
+}
+
+#Sobre, #Corretores{
+    width: 70%;
+    line-height: 26px;
+}
+
+#Servicos span, #Contato span{
+    color: yellow;
+    font-weight: bold;
+}
+
+iframe{
+    width: 600px;
+    height: 300px;
+}
+
+#Contato .contato-destaque{
+    background-color: black;
+    color: white;
+    width: 75%;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+#Contato p a{
+    background-color: white;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10px;
+    
+}
+
+.texto-azul{
+    color: #1d80c1;
+    font-weight: bold;
+}
+
+.div-azul{
+    background-color: #1d80c1;
+    color: white;
+}
